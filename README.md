@@ -1,4 +1,4 @@
-Problem statement – The export sales dataset has ID, date category, invoice number, product code, customer code, destination, QTY, sale price. Identify the dependent and independent variables and write the codes for machine learning Linear regression algorithm and check the accuracy.
+Problem statement – The export sales dataset has ID, date category, invoice number, product code, customer code, destination, QTY, sale price. Identify the dependent and independent variables and write the codes for machine learning Linear regression algorithm by taking training size is 70% and remaining data for testing and check the accuracy.
 
 
 
